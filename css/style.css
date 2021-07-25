@@ -16,3 +16,7 @@
   width: 100px;
   font-weight: 600;
 }
+.bg-coustomers-color {
+  background-color: rgb(228, 227, 227);
+  opacity: 0.9;
+}
