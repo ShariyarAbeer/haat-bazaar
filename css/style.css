@@ -37,3 +37,9 @@
 .developer:hover {
   color: yellowgreen;
 }
+img {
+  transition: 3s ease;
+}
+img:hover {
+  transform: scale(1.1);
+}
